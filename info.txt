@@ -1,0 +1,3 @@
+Ime: Mia
+Prezime: Ljubej
+Datum rođenja: 22.12.2005.
